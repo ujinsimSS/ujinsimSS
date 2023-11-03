@@ -1,44 +1,48 @@
-### Hi there 👋
+<div align="center">
+  <h1>Hello, I'm Sim~ ✌️</h1>
+  <p>Welcome to my GitHub profile. Here, you can find some of my projects and contributions. Feel free to explore!</p>
+</div>
 
-<!--
-**ujinsimSS/ujinsimSS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h2>GitHub Statistics</h2>
+</div>
+  
+<div align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ujinsimSS)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ujinsimSS)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hello!! 🤗
+<div align="center">
+  <h2>Technologies</h2>
+</div>
 
-Welcome to my GitHub profile. Here, you can find some of my projects and contributions. Feel free to explore!
-
-## GitHub Statistics
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ujinsimSS)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ujinsimSS)](https://github.com/anuraghazra/github-readme-stats)
-
-## Technologies
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-
-<!--## Projects
+<div align="center">
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+  <!-- Add more badges for other technologies you work with -->
+</div>
 
 
-## Contact Me
+<div align="center">
+  <h2>Contact Me</h2>
+</div>
 
-You can reach out to me via email or through my social media profiles:
+<div align="center">
+  <p>You can reach out to me via email or through my social media profiles:</p>
+</div>
 
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername)
-- Twitter: [@YourTwitterHandle](https://twitter.com/yourtwitterhandle)
--->
+<div align="center">
+  - Email: syj11243@gmail.com
+  
+</div>
+
+<div align="center">
+  <p>Feel free to connect and collaborate!</p>
+</div>
+
+
 Feel free to connect and collaborate!
 
 
