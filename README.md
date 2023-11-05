@@ -1,4 +1,4 @@
-<div align="center">
+<!--<div align="center">
   <h1>Hello, I'm Sim~ ✌️</h1>
   <p>Welcome to my GitHub profile. Here, you can find some of my projects and contributions. 
     Feel free to explore!</p>
@@ -43,7 +43,7 @@
 <div align="center">
   - Email: syj11243@gmail.com
   
-</div>
+</div>-->
 
 <div align="center">
   <p>Feel free to connect and collaborate!</p>
